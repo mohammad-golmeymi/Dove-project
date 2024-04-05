@@ -1,0 +1,17 @@
+@font-face {
+    font-family: byekan;
+    src: url(../font/B\ Yekan.ttf);
+  }
+body{
+    font-family:byekan !important
+}
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+input.form-control{   
+  font-size: 18px;
+}
+.b-titr{
+    font-family: b titr;
+}
